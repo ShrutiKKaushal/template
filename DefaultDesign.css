@@ -6,7 +6,7 @@
 	box-shadow: 5px 5px 3px #534A36;
 	width: 600px;
 	height: 150px;
-	background-image: url('ContentGradient.jpg');
+	background-image: url('assets/ContentGradient.jpg');
 	display: inline-block;
 }
 footer {
@@ -20,7 +20,7 @@ footer {
 	box-shadow: 5px 5px 3px;
 	padding: 15px;
 	border-radius: 5px;
-	background-image: url('BG-Test.jpg');
+	background-image: url('assets/BG-Test.jpg');
 }
 img {
 	border-radius: 5px;
