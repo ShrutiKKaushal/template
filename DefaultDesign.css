@@ -48,3 +48,7 @@ a:hover {
 	color: #333300;
 	font-family: cursive;
 }
+
+.defbody {
+	background-image: url(assets/deGradient.png);
+}
